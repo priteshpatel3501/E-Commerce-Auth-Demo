@@ -1,0 +1,24 @@
+.dropzone {
+  min-height: 129px;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  background: white;
+  padding: 20px 20px;
+  width: 200px;
+  height: 200px;
+}
+.dropzone .dz-message {
+  text-align: center;
+  margin: 4em 0;
+}
+.image-container {
+  height: 200px;
+  width: 200px;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.user-img-class {
+  position: absolute;
+  left: 45px;
+}
